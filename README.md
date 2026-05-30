@@ -1,5 +1,7 @@
 # Flight Fare Prediction
 
+NB Viewer Link , in case jupyter notebook don't get rendered :  Flight_Fare%20_Prediction%20Project%20.ipynb
+
 ## Overview
 
 This project focuses on predicting airline ticket prices using Machine Learning techniques. The model analyzes various flight-related factors such as airline, source, destination, duration, total stops, and journey details to estimate flight fares accurately.
