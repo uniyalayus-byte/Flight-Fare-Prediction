@@ -1,6 +1,7 @@
 # Flight Fare Prediction
 
-NB Viewer Link , in case jupyter notebook don't get rendered :  Flight_Fare%20_Prediction%20Project%20.ipynb
+View the notebook on NBViewer
+(https://nbviewer.org/github/uniyalayus-byte/Flight-Fare-Prediction/tree/main/)
 
 ## Overview
 
